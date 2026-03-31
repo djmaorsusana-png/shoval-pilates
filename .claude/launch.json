@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "shoval-pilates",
+      "runtimeExecutable": "/usr/local/lib/node_modules/corepack/shims/pnpm",
+      "runtimeArgs": ["dev"],
+      "port": 3007
+    }
+  ]
+}
